@@ -4,7 +4,7 @@ using namespace std;
 
 vector<int> solve(int n, int k, vector<int>& arr) {
 	
-	arr.insert(arr.begin(), 0);
+    arr.insert(arr.begin(), 0);
         
     multiset<int> ms;
     for(int i=0; i<k; i++)

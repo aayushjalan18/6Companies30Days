@@ -25,7 +25,7 @@ vector<int> solve(int n, int k, vector<int>& arr) {
 int main() {
 	
 	int n, k;
-	cin >> n >> k;
+	cin >> n >> k; 
 	
 	vector<int> a(n);
 	for(int i=0; i<n; i++)

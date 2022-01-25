@@ -23,5 +23,5 @@ int main() {
 	
 	cout << solve(dp, n, x, 1, 1000000007);
 	
-	return 0;
+	return 0; 
 }
